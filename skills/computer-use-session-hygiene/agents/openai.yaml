@@ -1,0 +1,5 @@
+interface:
+  display_name: "Computer Use Session Hygiene"
+  short_description: "Prevent Computer Use sessions from bloating"
+  default_prompt: "Use $computer-use-session-hygiene to set lightweight guardrails for a Computer Use-heavy project."
+
