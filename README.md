@@ -11,5 +11,11 @@ repo: <your-github-username>/codex-skills
 path: skills/computer-use-session-hygiene
 ```
 
-After installation, restart Codex so the new skill is discovered.
+Available paths:
 
+```text
+repo: crofyhung/codex-skills
+path: skills/browser-task-cleanup
+```
+
+After installation, restart Codex so the new skill is discovered.

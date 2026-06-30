@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser Task Cleanup"
+  short_description: "Finish browser tasks by closing temporary tabs and groups."
+  default_prompt: "Use $browser-task-cleanup to finish a Chrome/browser task with a clean tab and group state."
